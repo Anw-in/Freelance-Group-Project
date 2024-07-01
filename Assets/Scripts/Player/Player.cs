@@ -12,6 +12,9 @@ public class Player : MonoBehaviour
     public Seller seller;
     public bool canBuy = false;
     public float money;
+    public delegate void OnInventoryChanged();
+    public OnInventoryChanged OnChanged;
+
     void Start()
     {
         hp = GetComponent<HPHandler>();
@@ -24,6 +27,12 @@ public class Player : MonoBehaviour
             Debug.Log("Started Trade");
             seller.StartTrade();
         }
+
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            OnChanged?.Invoke();
+        }
+
     }
 
     public float AttackBonuses(float damage) {
