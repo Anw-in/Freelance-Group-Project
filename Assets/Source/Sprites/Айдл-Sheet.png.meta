@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -44,7 +44,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 3
+  spriteExtrude: 9
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -152,10 +152,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_0"
       rect:
         serializedVersion: 2
-        x: 81
-        y: 53
-        width: 429
-        height: 693
+        x: 0
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,10 +173,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_1"
       rect:
         serializedVersion: 2
-        x: 861
-        y: 53
-        width: 471
-        height: 686
+        x: 800
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_2"
       rect:
         serializedVersion: 2
-        x: 1670
-        y: 53
-        width: 471
-        height: 678
+        x: 1600
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +215,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_3"
       rect:
         serializedVersion: 2
-        x: 2450
-        y: 53
-        width: 500
-        height: 665
+        x: 2400
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_4"
       rect:
         serializedVersion: 2
-        x: 3273
-        y: 53
-        width: 485
-        height: 678
+        x: 3200
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_5"
       rect:
         serializedVersion: 2
-        x: 4068
-        y: 53
-        width: 499
-        height: 686
+        x: 4000
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_6"
       rect:
         serializedVersion: 2
-        x: 4919
-        y: 53
-        width: 548
-        height: 693
+        x: 4800
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_7"
       rect:
         serializedVersion: 2
-        x: 5762
-        y: 53
-        width: 577
-        height: 686
+        x: 5600
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +320,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_8"
       rect:
         serializedVersion: 2
-        x: 6648
-        y: 53
-        width: 513
-        height: 678
+        x: 6400
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_9"
       rect:
         serializedVersion: 2
-        x: 7478
-        y: 53
-        width: 492
-        height: 665
+        x: 7200
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_10"
       rect:
         serializedVersion: 2
-        x: 8251
-        y: 53
-        width: 506
-        height: 678
+        x: 8000
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,10 +383,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_11"
       rect:
         serializedVersion: 2
-        x: 8961
-        y: 53
-        width: 577
-        height: 686
+        x: 8800
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_12"
       rect:
         serializedVersion: 2
-        x: 9721
-        y: 53
-        width: 548
-        height: 693
+        x: 9600
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,10 +425,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_13"
       rect:
         serializedVersion: 2
-        x: 10473
-        y: 53
-        width: 499
-        height: 686
+        x: 10400
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_14"
       rect:
         serializedVersion: 2
-        x: 11268
-        y: 53
-        width: 492
-        height: 678
+        x: 11200
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,10 +467,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_15"
       rect:
         serializedVersion: 2
-        x: 12048
-        y: 53
-        width: 499
-        height: 665
+        x: 12000
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_16"
       rect:
         serializedVersion: 2
-        x: 12871
-        y: 53
-        width: 470
-        height: 678
+        x: 12800
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: "\u0410\u0439\u0434\u043B-Sheet_17"
       rect:
         serializedVersion: 2
-        x: 13659
-        y: 53
-        width: 470
-        height: 686
+        x: 13600
+        y: 0
+        width: 800
+        height: 750
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
